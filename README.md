@@ -1,3 +1,3 @@
 # Anidex
 
-## A pokedex, but for Anime!
+## Anime character lookup using anime scenes
