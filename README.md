@@ -1,3 +1,3 @@
-# Anidex
+# Dogdex
 
-## Anime character lookup using anime scenes
+## Detect dog breeds through an image

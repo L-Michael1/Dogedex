@@ -5,4 +5,17 @@
 
 body {
   font-size: 16px;
+  background-color: #212229;
+  color: #FFFFFF;
+}
+
+#tsparticles {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  z-index: -1;
 }
