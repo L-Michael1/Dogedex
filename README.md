@@ -7,7 +7,7 @@
 You'll need Node 14.0.0 or a later version on your local environment.
 
 ```
-git clone <THIS REPO>
+git clone https://github.com/L-Michael1/Dogedex.git
 cd dogdex
 npm i
 npm start
